@@ -3,7 +3,7 @@ body {
 }
 hr {
     border-style: dotted none none;
-    border-width: 10px;
+    border-width: 7px;
     border-color: #3F72AF;
     height: 2px;
     width: 10%;
@@ -14,4 +14,7 @@ h1 {
 }
 h3 {
     color: #112D4E;
+}
+#profile_pic {
+    border-radius: 100%;
 }
